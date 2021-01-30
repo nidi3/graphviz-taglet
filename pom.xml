@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>graphviz-taglet</artifactId>
-    <version>0.10.1-SNAPSHOT</version>
+    <version>0.18.0</version>
     <name>${project.artifactId}</name>
     <description>Use graphviz in javadoc comments.</description>
     <url>https://github.com/nidi3/graphviz-taglet</url>
@@ -24,7 +24,7 @@
         <connection>scm:git:https://github.com/nidi3/graphviz-taglet</connection>
         <developerConnection>scm:git:https://github.com/nidi3/graphviz-taglet</developerConnection>
         <url>https://github.com/nidi3/graphviz-taglet</url>
-        <tag>HEAD</tag>
+        <tag>graphviz-taglet-0.18.0</tag>
     </scm>
 
     <build>

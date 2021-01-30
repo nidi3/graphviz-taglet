@@ -6,7 +6,7 @@ os:
   - windows
 
 env:
-  - JDK="openjdk@1.11"
+  - JDK="adopt@1.8.0-242"
 
 cache:
   directories:

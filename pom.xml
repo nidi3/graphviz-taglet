@@ -17,6 +17,7 @@
 
     <properties>
         <suppressionFile>owasp-suppression.xml</suppressionFile>
+        <module.name>guru.nidi.graphviz.taglet</module.name>
     </properties>
 
     <scm>

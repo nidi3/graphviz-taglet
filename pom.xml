@@ -32,7 +32,7 @@
             <plugin>
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <configuration>
-                    <taglet>guru.nidi.graphviz.GraphvizTaglet</taglet>
+                    <taglet>guru.nidi.graphviz.taglet.GraphvizTaglet</taglet>
                     <tagletArtifact>
                         <groupId>${project.groupId}</groupId>
                         <artifactId>${project.artifactId}</artifactId>
